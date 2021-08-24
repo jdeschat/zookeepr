@@ -1,8 +1,11 @@
 const express = require('express');
+const app = express();
 const { animals } = require('./data/animals');
 
 app.get('/api/animals', (req, res) => {
-    res.send('Hello!');
+    let results = animals;
+    console.log(req.query)
+    res.json(results);
 });
 
 app.listen(3001, () => {
