@@ -22,10 +22,10 @@ AS a user, I want to be able to access and create different types of data stored
 1. Install npm: npm init -y
 2. Install express: npm i express
 3. Go to deployed link via Heroku (found below)
-<!-- 4. Click "Get Started" to go to the main note taker page
+4. Click "Get Started" to go to the main note taker page
 5. Write both a note and note text below, then hit the save button on the top right corner
 6. You can add more notes by hitting the "+" sign in the top right corner
-7. You can delete notes by hitting the trash icon beside the note you want to delete -->
+7. You can delete notes by hitting the trash icon beside the note you want to delete
 
 ## Contributors
 To contribute to zookeepr, clone this repo locally and commit your code on a separate branch.
@@ -44,6 +44,6 @@ Made with [contributors-img](https://contrib.rocks).
 ## Questions
 My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/zookeepr.
 
-<!-- The  project can be accessed via Heroku using the following link: https://note-taker-challenge1.herokuapp.com/write  -->
+The  project can be accessed via Heroku using the following link: https://zookeepr12.herokuapp.com/ 
 
 You can reach me at jdeschat@gmail.com with additional questions.
